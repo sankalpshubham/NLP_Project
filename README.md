@@ -46,9 +46,8 @@ To run the code
 - Do the same for the Google News Endpoint but define the keyword here instead:
     - ```keyword = "<COMPANY>"```
 - Additionally, define this section with your API keys:
-    - ```GOOGLE_API_KEY='__'
-        X_RapidAPI_Key='__' 
-        ```
+    - ```GOOGLE_API_KEY='__' ```
+    - ``` X_RapidAPI_Key='__' ```
 
 
 ## Contributors
