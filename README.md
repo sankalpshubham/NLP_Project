@@ -28,13 +28,13 @@ The project consists of several components:
     - Taking these two big inconsistencies into account, we average the sentiment scores from Gemini and our BERT model to give a final Sentiment score to the list of articles regarding our target company 
 
 6. **Visualization**: We also visualize the structure of each document using spacy to display the ngrams, subjectivity, and obtain the text to parse tree structure.
-Data Frama Visualization 
+Data Frama Visualization <br>
 ![Data Frama Visualization](Output_Pictures/df.png)
 
-Polarity Distribution
+Polarity Distribution <br>
 ![Polarity Distribution](Output_Pictures/polarity_distribution.png)
 
-Parse Tree
+Parse Tree <br>
 ![Parse Tree](Output_Pictures/parse_tree.png)
 
 
