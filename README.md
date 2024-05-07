@@ -27,7 +27,7 @@ The project consists of several components:
     - While BERT is consistent in scoring the article approximately the same multiple times, it is not always correct in identifying the correct sentiment category 
     - Taking these two big inconsistencies into account, we average the sentiment scores from Gemini and our BERT model to give a final Sentiment score to the list of articles regarding our target company 
 
-6. **Visualization**: We also visualize the structure of each document using spacy to display the ngrams, subjectivity, and obtain the text to parse tree structure.
+6. **Visualization**: We also visualize the structure of each document using spacy to display the ngrams, subjectivity, and obtain the text to parse tree structure. <br>
 Data Frama Visualization <br>
 ![Data Frama Visualization](Output_Pictures/df.png)
 
