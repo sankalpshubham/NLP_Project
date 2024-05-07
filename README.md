@@ -28,6 +28,10 @@ The project consists of several components:
     - Taking these two big inconsistencies into account, we average the sentiment scores from Gemini and our BERT model to give a final Sentiment score to the list of articles regarding our target company 
 
 6. **Visualization**: We also visualize the structure of each document using spacy to display the ngrams, subjectivity, and obtain the text to parse tree structure.
+![Data Frama Visualization](Output_Pictures/df.png)
+![Data Frama Visualization](Output_Pictures/polarity_distribution.png)
+![Parse Tree](Output_Pictures/parse_tree.png)
+
 
 7. **Final Decision**: We return a final score to make a prediction on whether to sell, buy, or hold the stocks of our target company. Our scoring method is:
     - Metric Ranges: 
